@@ -1,13 +1,17 @@
 ---
 title: Growing With W
-email: your-email@example.com
-description: Description goes here
+email: FIXME@example.com
+description: FIXME!!!
 baseurl: ''
 url: ''
 markdown: kramdown
 theme: growing-with-w-theme
+# remote_theme: funkfinger/growing-with-w-theme
+
 plugins:
-- jekyll-feed
+  - jekyll-feed
+  # - jekyll-remote-theme
+
 jekyll_pages_api_search:
   index_fields:
     title:
