@@ -33,7 +33,6 @@ fields:
     - music
     - food
     - mindfullness
-    - sports
   label: category
 pages:
 - _posts/2018-09-04-pressed-pennies.md
