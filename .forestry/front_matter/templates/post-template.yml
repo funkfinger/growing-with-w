@@ -1,0 +1,20 @@
+---
+label: post template
+hide_body: false
+is_partial: false
+fields:
+- type: tag_list
+  name: tags
+  label: tags
+- type: file
+  name: img
+  label: img
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: select
+  name: layout
+  config:
+    source:
+      type: simple
+  label: layout
