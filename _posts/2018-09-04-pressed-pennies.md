@@ -5,6 +5,7 @@ tags: []
 img: "/uploads/090418flatpenny-2.png"
 layout: post
 thumbnail: https://via.placeholder.com/100x100
+category: travel
 
 ---
 You know you’ve seen them littering state parks, museums, and zoos from Pennsylvania to Paris.
