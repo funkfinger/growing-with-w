@@ -1,13 +1,14 @@
 ---
 title: Math with Fred
 date: 2018-08-28 17:34:03 +0000
-layout: ''
+layout: post
 tags:
 - home school
 - math
 - fred
 - books
 img: "/uploads/IMG_1451.jpg"
+thumbnail: ''
 
 ---
 A couple of years ago, someone told me about [Life of Fred](https://www.lifeoffred.uniquemath.com/ "Life of Fred") math books.
