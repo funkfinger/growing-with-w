@@ -5,6 +5,8 @@ tags: []
 img: ''
 post: ''
 layout: post
+thumbnail: ''
+category: mindfullness
 
 ---
 W has been going through a fidgety phase at bedtime. 
