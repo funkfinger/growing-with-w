@@ -9,6 +9,7 @@ tags:
 - books
 img: "/uploads/IMG_1451.jpg"
 thumbnail: ''
+category: school
 
 ---
 A couple of years ago, someone told me about [Life of Fred](https://www.lifeoffred.uniquemath.com/ "Life of Fred") math books.
