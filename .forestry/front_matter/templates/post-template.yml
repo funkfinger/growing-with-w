@@ -17,6 +17,8 @@ fields:
   config:
     source:
       type: simple
+    options:
+    - post
   label: layout
 pages:
 - _posts/2018-08-28-math-with-fred.md
