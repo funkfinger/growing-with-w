@@ -19,4 +19,5 @@ fields:
       type: simple
   label: layout
 pages:
+- _posts/2018-08-28-math-with-fred.md
 - _posts/2018-09-04-pressed-pennies.md
