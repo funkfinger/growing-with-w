@@ -1,9 +1,9 @@
 GIT
   remote: git://github.com/funkfinger/growing-with-w-theme.git
-  revision: d8456324a953dc7145f9fc6733f50a0d1ac9b5c1
+  revision: dece7fc4adf6176740e693c5de69381d9d9cfa2a
   branch: master
   specs:
-    growing-with-w-theme (0.0.2)
+    growing-with-w-theme (0.0.3)
       bootstrap (~> 4.0.0)
       jekyll (~> 3.5)
       jekyll-feed (~> 0.9)
@@ -88,7 +88,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  growing-with-w-theme (= 0.0.2)!
+  growing-with-w-theme (= 0.0.3)!
   jekyll (~> 3.8.3)
   jekyll-feed (~> 0.6)
 
