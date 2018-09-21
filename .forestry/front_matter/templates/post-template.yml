@@ -21,6 +21,8 @@ fields:
     - post
   label: layout
 pages:
+- _posts/test-post.md
+- _posts/2018-08-28-rejected.md
 - _posts/2018-08-30-audiobooks.md
 - _posts/2018-08-29-headspace-for-kids.md
 - _posts/2018-09-04-pressed-pennies.md
