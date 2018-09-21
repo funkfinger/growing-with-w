@@ -20,6 +20,19 @@ fields:
     options:
     - post
   label: layout
+- type: select
+  name: category
+  config:
+    source:
+      type: simple
+    options:
+    - travel
+    - school
+    - fun
+    - funny
+    - music
+    - food
+  label: category
 pages:
 - _posts/2018-09-21-test-post.md
 - _posts/2018-08-28-rejected.md
