@@ -1,5 +1,5 @@
 ---
-title: Pressed Pennies
+title: Pressed pennies
 date: 2018-09-04 00:00:00 +0000
 tags: []
 img: "/uploads/090418flatpenny-2.png"
