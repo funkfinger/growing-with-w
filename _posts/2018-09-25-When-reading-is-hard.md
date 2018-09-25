@@ -8,6 +8,7 @@ layout: post
 category: school
 
 ---
-I recently wrote an article for [**Raising Arizona Kids magazine**](http://www.raisingarizonakids.com "Raising Arizona Kids"), ["When Reading is Hard,"](https://www.raisingarizonakids.com/2018/08/reading-literacy-resources-dyslexia-adhd-learning-differences/) charting  my quest to find W reading help. 
+
+I recently wrote an article for the September 2018 issue of [**_Raising Arizona Kids magazine_**](http://www.raisingarizonakids.com "Raising Arizona Kids"), ["When Reading is Hard,"](https://www.raisingarizonakids.com/2018/08/reading-literacy-resources-dyslexia-adhd-learning-differences/) charting  my quest to find W reading help.
 
 Check in out [here](https://www.raisingarizonakids.com/2018/08/reading-literacy-resources-dyslexia-adhd-learning-differences/ "When Reading is Hard").
