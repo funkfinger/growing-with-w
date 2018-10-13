@@ -5,6 +5,8 @@ tags: []
 img: "/uploads/091818audiobooks.png"
 post: post
 layout: post
+thumbnail: ''
+category: ''
 
 ---
 **Got a road trip? Try an audiobook**
@@ -27,9 +29,9 @@ Since that trip, we have listened to a load of other books varying in length and
 
 Here are some we’ve enjoyed so far…
 
-1. [**_Blackthorn Key_**](https://amzn.to/2LDGe9v "Blackthorn Key") (3 book series), A riveting story of cracking codes and mystery solving featuring apprentice apothecary, Christopher Rowe.
-2. [**_The Mysterious Benedict Society_**](https://www.amazon.com/gp/product/B000NUOJFY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000NUOJFY&linkCode=as2&tag=cracgood-20&linkId=6348c5c46cb97852a96d28f003f8c227 "The Mysterious Benedict Society") (3 book series)**_,_** For a lengthier voyage, this 13+ hour book about gifted orphans saving the world is gripping and — Enjoyable for the adults just as much as the kids. When we first tuned in, my then 6 year-old son complained, “this is for grown-ups.” But after about 10 minutes and he was hooked.
-3. [**_Secret Keepers_**](https://www.amazon.com/gp/product/B01KGEMUMK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KGEMUMK&linkCode=as2&tag=cracgood-20&linkId=1c81a20a107812d0c2dc8d5acf03b2b0 "Secret Keepers"), Written by the same author as the above, it's
+1. [**_Blackthorn Key_**](https://amzn.to/2LDGe9v "Blackthorn Key") (3 book series), A riveting story of cracking codes and mystery-solving featuring apprentice apothecary, Christopher Rowe. Hint: Fast-forward through the tedious symbol keys.
+2. [**_The Mysterious Benedict Society_**](https://www.amazon.com/gp/product/B000NUOJFY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000NUOJFY&linkCode=as2&tag=cracgood-20&linkId=6348c5c46cb97852a96d28f003f8c227 "The Mysterious Benedict Society") (3 book series)**_,_** This book about gifted orphans saving the world is gripping for the adults just as much as the kids. When we first tuned in, my then 6 year-old son complained, “this is for grown-ups.” But after about 10 minutes and he was hooked.
+3. [**_Secret Keepers_**](https://www.amazon.com/gp/product/B01KGEMUMK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KGEMUMK&linkCode=as2&tag=cracgood-20&linkId=1c81a20a107812d0c2dc8d5acf03b2b0 "Secret Keepers"), Written by the same author as _The Mysterious Benedict Society_ (above), it's another problem-solving mystery about a boy who finds a watch that makes him invisible. Adventure ensues.
 4. [**_The War that Saved My Life_**](https://www.amazon.com/gp/product/B00QTTUZDI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QTTUZDI&linkCode=as2&tag=cracgood-20&linkId=98182877ea59460171f8ea19cec899db "The War that Saved My Life") (two book series), The World War 2 story about an abused girl and her brother evacuating London and finding a new life.
 5. [**_Wonder_**](https://www.amazon.com/gp/product/B0078XQPBA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0078XQPBA&linkCode=as2&tag=cracgood-20&linkId=3ddd8d0b3ed70321a5c83d30e118594f "Wonder"), This story hooked my son with jokes about a name synonymous with “butt,” and kept him with a heartfelt and relatable story about fitting in.
 
