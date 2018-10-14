@@ -1,5 +1,5 @@
 ---
-title: Audiobooks
+title: Got a road trip? Try an audiobook
 date: 2018-08-30 00:00:00 +0000
 tags: []
 img: "/uploads/091818audiobooks.png"
@@ -9,8 +9,6 @@ thumbnail: ''
 category: ''
 
 ---
-**Got a road trip? Try an audiobook**
-
 When my family travels in an airplane together, it’s every person for himself.
 
 My 7 year-old son can sit through any intercontinental flight with an iPad, only disconnecting from the screen to use the bathroom or shove some snacks in his mouth.
