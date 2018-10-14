@@ -35,7 +35,7 @@ Here are some we’ve enjoyed so far…
 4. [**_The War that Saved My Life_**](https://www.amazon.com/gp/product/B00QTTUZDI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QTTUZDI&linkCode=as2&tag=cracgood-20&linkId=98182877ea59460171f8ea19cec899db "The War that Saved My Life") (two book series), The World War 2 story about an abused girl and her brother evacuating London and finding a new life.
 5. [**_Wonder_**](https://www.amazon.com/gp/product/B0078XQPBA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0078XQPBA&linkCode=as2&tag=cracgood-20&linkId=3ddd8d0b3ed70321a5c83d30e118594f "Wonder"), This story hooked my son with jokes about a name synonymous with “butt,” and kept him with a heartfelt and relatable story about fitting in.
 
-I've heard great things about the narration of the Harry Potter series.
+I've heard great things about the narration of the _Harry Potter_ series.
 
 (For adults looking to try a book sans kids, I whole-heartedly recommend Trevor Noah’s [_Born a Crime_](https://www.amazon.com/gp/product/B01IW9TM5O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IW9TM5O&linkCode=as2&tag=cracgood-20&linkId=7401aef8a81ffe053622a585eb95bb62 "Born a Crime").)
 
