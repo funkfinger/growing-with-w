@@ -6,7 +6,7 @@ img: "/uploads/091818audiobooks.png"
 post: post
 layout: post
 thumbnail: ''
-category: ''
+category: travel
 
 ---
 
