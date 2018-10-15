@@ -9,7 +9,7 @@ thumbnail: ''
 category: travel
 
 ---
-
+<br><br>
 When my family travels in an airplane together, it’s every person for himself.
 
 My 7 year-old son can sit through any intercontinental flight with an iPad, only disconnecting from the screen to use the bathroom or shove some snacks in his mouth.
