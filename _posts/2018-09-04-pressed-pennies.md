@@ -2,7 +2,7 @@
 title: Pressed pennies
 date: 2018-09-04 00:00:00 +0000
 tags: []
-img: "/uploads/090418flatpenny-2-thumb.png"
+img: "/uploads/090418flatpenny-2.png"
 layout: post
 thumbnail: "/uploads/090418penny_s.png"
 category: travel
