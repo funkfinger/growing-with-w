@@ -2,12 +2,13 @@
 title: Pressed pennies
 date: 2018-09-04 00:00:00 +0000
 tags: []
-img: "/uploads/090418flatpenny-2.png"
+img: "/uploads/090418flatpenny-2-thumb.png"
 layout: post
-thumbnail: "/uploads/090418flatpenny-2-thumb.png"
+thumbnail: "/uploads/090418penny_s.png"
 category: travel
 
 ---
+<br><br>
 You know you’ve seen them littering state parks, museums, and zoos from Pennsylvania to Paris.
 
 The machines that, for 50 cents (plus a sacrificial penny) will smash your coin into an oblong disk, stamp a design into it, and voila…turn it into a valuable keepsake. 
